@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+
+# Data (ignorar TODO)
+Data/
+
+# Modelos y archivos grandes
+*.csv
+*.pkl
+*.npy
+*.model
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Entornos
+.venv/
